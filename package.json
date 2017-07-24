@@ -4,8 +4,12 @@
   "description": "An infaltion calculator Alexa skill",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "rm -f lambda-package.zip && zip -r lambda-package.zip *"
   },
   "author": "Matt Hackmann",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
 }

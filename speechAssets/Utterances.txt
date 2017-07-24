@@ -1,0 +1,50 @@
+CurrentToYear how much was {value} worth in {year}
+CurrentToYear how much was {value} dollars worth in {year}
+CurrentToYear how much {value} worth in {year}
+CurrentToYear how much {value} dollars was worth in {year}
+CurrentToYear how much is {value} in {year} worth
+YearToCurrent how much is {value} {year} dollars worth
+YearToCurrent how much is {value} in {year} dollars worth
+CurrentToYear how much {value} in {year} worth
+YearToCurrent how much {value} {year} dollars worth
+YearToCurrent how much {value} in {year} dollars worth
+YearToYear how much is {value} {compareyear} dollars worth in {inyear}
+YearToYear how much is {value} in {compareyear} dollars worth in {inyear}
+YearToYear how much is {value} {compareyear} dollars worth in {inyear} dollars
+YearToYear how much is {value} in {compareyear} dollars worth in {inyear} dollars
+YearToYear how much {value} {compareyear} dollars worth in {inyear}
+YearToYear how much is {value} in {compareyear} dollars worth in {inyear}
+YearToYear how much {value} {compareyear} dollars worth in {inyear} dollars
+YearToYear how much is {value} in {compareyear} dollars worth in {inyear} dollars
+CurrentToYear how much was {value} worth in the year {year}
+CurrentToYear how much was {value} dollars worth in the year {year}
+CurrentToYear how much {value} was worth in the year {year}
+CurrentToYear how much {value} dollars worth in the year {year}
+CurrentToYear how much is {value} in the year {year} worth
+YearToCurrent how much is {value} {year} dollars worth
+YearToCurrent how much is {value} in the year {year} dollars worth
+CurrentToYear how much {value} in the year {year} worth
+YearToCurrent how much {value} {year} dollars worth
+YearToCurrent how much {value} in the year {year} dollars worth
+YearToYear how much is {value} {compareyear} dollars worth in the year {inyear}
+YearToYear how much is {value} in the year {compareyear} dollars worth in the year {inyear}
+YearToYear how much is {value} {compareyear} dollars worth in the year {inyear} dollars
+YearToYear how much is {value} in the year {compareyear} dollars worth in the year {inyear} dollars
+YearToYear how much {value} {compareyear} dollars worth in the year {inyear}
+YearToYear how much {value} in the year {compareyear} dollars worth in the year {inyear}
+YearToYear how much {value} {compareyear} dollars worth in the year {inyear} dollars
+YearToYear how much {value} in the year {compareyear} dollars worth in the year {inyear} dollars
+YearToCurrent how much was {value} in {year} worth today
+YearToCurrent how much was {value} in {year} dollars worth today
+YearToCurrent how much was {value} dollars in {year} worth today
+YearToCurrent how much was {value} dollars in {year} dollars worth today
+YearToCurrent how much {value} in {year} is worth today
+YearToCurrent how much {value} in {year} dollars is worth today
+YearToCurrent how much {value} dollars in {year} is worth today
+YearToCurrent how much {value} dollars in {year} dollars is worth today
+YearToCurrent how much {value} in {year} was worth
+YearToCurrent how much {value} in {year} dollars was worth
+YearToCurrent how much {value} dollars in {year} was worth
+YearToCurrent how much {value} dollars in {year} dollars was worth
+YearToYear how much {value} in {inyear} was worth in {compareyear}
+YearToYear how much {value} dollars in {inyear} was worth in {compareyear}

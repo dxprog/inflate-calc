@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "CurrentToYear",
+      "slots": [
+        {
+          "name": "year",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "value",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "YearToCurrent",
+      "slots": [
+        {
+          "name": "year",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "value",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "YearToYear",
+      "slots": [
+        {
+          "name": "inyear",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "compareyear",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "value",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
